@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-maxatome-go-testdeep (1.14.0-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release
+    - Drop patch for skipping test
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Mathias Gibbens <gibmat@debian.org>  Wed, 27 Dec 2023 23:43:21 +0000
+
+golang-github-maxatome-go-testdeep (1.13.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1059471)
+
+ -- Mathias Gibbens <gibmat@debian.org>  Tue, 26 Dec 2023 16:23:33 +0000
